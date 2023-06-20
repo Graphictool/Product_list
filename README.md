@@ -1,16 +1,10 @@
 # assignment_module7
 
-A new Flutter project.
+#Output
 
-## Getting Started
+<img src="https://github.com/Graphictool/Product_list/assets/28779320/01c11593-d31a-42e2-8b38-bd5b3b9abfb7" width="400" height="867">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Graphictool/Product_list/assets/28779320/b342a4dc-9fd0-45cc-aa75-b75c44897b53" width="400" height="867">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Graphictool/Product_list/assets/28779320/8b0f4f2b-fc04-4028-aa20-d69ab4ac60e5" width="400" height="867">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
